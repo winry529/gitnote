@@ -11,6 +11,13 @@ git commit -m  <message>
 
 查看仓库当前状态
 git status
+git log
+
+查看历史纪录
+git reflog
 
 查看文件修改
 git diff <file>
+
+版本回退 
+git reset --hard <HEAD^|XXXXX>
