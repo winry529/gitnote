@@ -1,0 +1,16 @@
+全局配件用户名和邮箱
+git config --global user.name
+git config --global email
+
+初始化仓库 
+git init 
+
+添加和提交文件
+git add <file>
+git commit -m  <message>
+
+查看仓库当前状态
+git status
+
+查看文件修改
+git diff <file>
